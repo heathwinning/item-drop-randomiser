@@ -1,0 +1,5 @@
+name: ItemDropRandomiser
+version: 0.0.1
+author: heathwinning
+main: ItemDropRandomiser
+api-version: 1.16
